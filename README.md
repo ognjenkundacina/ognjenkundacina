@@ -1,11 +1,14 @@
 ### Hi there 👋
 
+🔭 I’m currently working on automated speech recognition-related projects
+
+📫 How to reach me: ognjen.kundacina@ivi.ac.rs
 <!--
 **ognjenkundacina/ognjenkundacina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on speech recognition-related projects
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
